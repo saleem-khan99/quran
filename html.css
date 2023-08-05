@@ -1,0 +1,66 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+button{
+    background-color: black;
+    color: aqua;
+    border: solid rgb(244, 8, 8) 2px;
+    padding: 4px;
+    width: 60px;
+}
+i{
+    color: white;
+    font-size: 50px;
+}
+button:hover{
+    border: 4px;
+}
+#Quran{
+    font-size: 20px;
+    border: solid #1c9280;
+}
+.img{
+    margin-top: -30px;
+    margin-left: -600px;
+   width: 350px;
+}
+.img2{
+    margin-left:80%;
+    width: 350px;
+}
+body{
+    background-image: url(vv.jpg);
+    background-size: cover;
+}
+h1{
+    text-align: center;
+    color: azure;
+    background-color: #370606;
+    height: 50px;
+}
+h2{
+    text-align: center;
+    color: beige;
+}
+
+#outp{
+    color: aqua;
+    font-size: 50px;
+    border: solid 2px;
+    text-align: center;
+    width: 40%;
+}
+div{
+    margin-left: 42%;
+}
+a{
+    padding: 5px;
+    border: solid white;
+    color: azure;
+    
+    
+
+    
+    
+}
